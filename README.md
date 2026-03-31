@@ -1,9 +1,11 @@
 # audit--24MEI10104-
 Basic Linux commands and scripts project
-Basic Linux commands and scripts project
+
 
 OSS Audit — Git
-Student Name: [Priyanshi Bairagi] Registration Number: [24MEI10104] Course: Open Source Software Software Chosen: Git Topic: Basic Linux Commands and Shell Scripting
+Student Name: [Priyanshi Bairagi]
+Registration Number: [24MEI10104]
+Course: Open Source Software Software Chosen: Git Topic: Basic Linux Commands and Shell Scripting
 
 Introduction
 This project demonstrates basic Linux commands and shell scripting concepts including system information retrieval, package checking, user interaction, file handling, and arithmetic operations.
@@ -17,7 +19,11 @@ script5.sh — Simple Calculator (performs arithmetic operations)
 How to Run Scripts on Linux
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
-./script1.sh ./script2.sh ./script3.sh ./script4.sh ./script5.sh
+./script1.sh
+./script2.sh 
+./script3.sh
+./script4.sh 
+./script5.sh
 
 Dependencies
 Bash shell
